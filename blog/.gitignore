@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycacge))
+myvenv
+db.sqlite3
+/static
+.DS_Store

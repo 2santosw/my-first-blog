@@ -1,0 +1,42 @@
+Area de transferencia:
+
+	Working directory 
+	staging area
+	git directory
+
+
+
+COMANDOS:
+
+$ git init
+	Inicia um novo repositorio (.git - oculto)
+
+$ git status
+	Verifica alterações no stading area.
+
+$git add.
+	adiciona todos os arquivos alterados stading area
+
+$git add "arquivo.txt"
+	Adiciona o arquivo especifico no stading area
+
+$git add *txt 
+	adiciona todos os arquivos da extensão txt
+
+$git commit -m "escreva um comentário"
+	adiciona os arquivos no git directory
+
+$ git commit -a -m "Comentário"
+	adiciona o arquivo direto no git directory pulando o add
+
+AQUIVOS:
+
+Criar um arquivo .ignore
+	Nesse arquivo podemos declarar quais os documentos devem ser ignorados 	(não precisam subir ao staging area).
+
+
+
+
+
+
+
